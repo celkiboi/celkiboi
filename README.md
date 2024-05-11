@@ -10,7 +10,7 @@ I'm a computer engineering/software engineering student @ FERIT Osijek
 ## My skills
 
 ### Languages
-<img src="https://raw.githubusercontent.com/SAWARATSUKI/ServiceLogos/main/C/C.png" alt="C" width="200"><img src="https://raw.githubusercontent.com/SAWARATSUKI/ServiceLogos/main/C%23/C%23%20Purple.png" alt="C#" width="200"><img src="https://raw.githubusercontent.com/SAWARATSUKI/ServiceLogos/main/Kotlin/Kotlin_New.png" alt="Kotlin" width="200"><img src="https://raw.githubusercontent.com/SAWARATSUKI/ServiceLogos/main/Python/Python.png" alt="Python" width="200">
+<img src="https://katomelon.github.io/kawaii-dev-logos-website/assets/img39-BgbmC-UV.png" alt="C" width="200"><img src="https://katomelon.github.io/kawaii-dev-logos-website/assets/img40-u-EGZAcB.png" alt="C#" width="200"><img src="https://katomelon.github.io/kawaii-dev-logos-website/assets/img68-DJAFhwVZ.png" alt="Kotlin" width="200"><img src="https://katomelon.github.io/kawaii-dev-logos-website/assets/img76-BDWyC6Fm.png" alt="Python" width="200">
 <!-- - C - C# - Kotlin - Python - -->
 
 ### Frameworks
